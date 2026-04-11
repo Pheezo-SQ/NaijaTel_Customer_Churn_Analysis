@@ -1,3 +1,4 @@
+
 # 📉 NaijaTel — Customer Churn Analysis
 
 ## 📌 Project Overview
@@ -27,14 +28,14 @@ customers.
 - 238 of 1,000 customers churned (23.8% churn rate)
 
 ## 📁 Files
-File and Description 
-
--Churn_Analysis.ipynb | Full ML pipeline notebook 
--naijatel_churn.csv | Raw dataset (1000 customers)
--naijatel_churn_clean.csv | Cleaned dataset 
--NaijaTel_Churn_Dashboard.pbix | Power BI dashboard 
--chart1_churn_eda.png | EDA visualisations 
--chart2_confusion_matrix.png | Model evaluation charts 
+| File | Description |
+|------|-------------|
+| Churn_Analysis.ipynb | Full ML pipeline notebook |
+| naijatel_churn.csv | Raw dataset (1000 customers) |
+| naijatel_churn_clean.csv | Cleaned dataset |
+| NaijaTel_Churn_Dashboard.pbix | Power BI dashboard |
+| chart1_churn_eda.png | EDA visualisations |
+| chart2_confusion_matrix.png | Model evaluation charts |
 
 ## 💡 Business Recommendations
 1. Offer incentives to move Month-to-Month customers to 12-Month contracts
@@ -47,4 +48,3 @@ File and Description
 1. Clone the repository
 2. Open Churn_Analysis.ipynb in Jupyter Notebook
 3. Run all cells sequentially
-4. Open NaijaTel_Churn_Dashboard.pbix in Power BI Desktop
